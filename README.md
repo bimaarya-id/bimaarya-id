@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bimaarya-id
 - 👀 I’m interested in UX/UI And Front End 
-- 🌱 I’m currently learning anything About Technology
+- 🌱 I’m currently learning anything About Back End
 - 💞️ I’m looking to collaborate on Back End
 - 📫 How to reach me Bimaa266@gmail.com
 
